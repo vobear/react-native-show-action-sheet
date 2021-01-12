@@ -1,0 +1,14 @@
+{
+  "name": "react-native-show-action-sheet",
+  "version": "1.0.0",
+  "description": "react-native action sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-show-action-sheet"
+  ],
+  "author": "vobear",
+  "license": "ISC"
+}
