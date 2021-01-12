@@ -1,6 +1,6 @@
 {
   "name": "react-native-show-action-sheet",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react-native action sheet",
   "main": "src/index.js",
   "scripts": {
